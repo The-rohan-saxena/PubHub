@@ -1,3 +1,17 @@
-# PubHub
-PubHub is a comprehensive online platform designed to meet all the needs of pet care, especially for street dogs and cats. This all-in-one website provides users with a range of services, including food, accessories, medicines, and essential information about nearby animal hospitals and veterinary doctors. The core mission of PubHub is to support pet owners and animal lovers in caring for stray animals and pets, with a focus on accessibility and convenience.
-One of the standout features of PubHub is its unique educational approach. It provides tutorial videos created by highly educated veterinary doctors, offering step-by-step guidance on treating and caring for street animals. These videos are designed to help individuals who wish to treat street dogs and cats at home, especially those who may not have formal veterinary training. The tutorials cover various aspects of pet care, including first aid, vaccinations, and common treatments, enabling users to handle medical situations with confidence.
+# PubHub - Street Animal Care
+
+PubHub is a website dedicated to helping street animals by providing:
+- Medicines, food, and accessories for purchase
+- Educational videos by expert veterinarians
+- Details of veterinary hospitals and doctors in Agra, Mathura, and Firozabad
+
+## Features
+- Responsive design
+- Shop for animal products
+- Educational videos
+- Hospital and doctor directory
+
+## Deployment
+1. Clone the repository.
+2. Replace placeholder data with real API calls.
+3. Deploy to Netlify, Vercel, or GitHub Pages.
